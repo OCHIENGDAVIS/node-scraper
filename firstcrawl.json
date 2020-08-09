@@ -1,0 +1,16 @@
+{
+  "0": {
+    "host": "citizentv.co.ke",
+    "path": "/",
+    "port": "",
+    "protocol": "https",
+    "uriPath": "/",
+    "url": "https://citizentv.co.ke/",
+    "depth": 1,
+    "fetched": false,
+    "status": "queued",
+    "stateData": {},
+    "id": 0
+  },
+  "length": 1
+}
